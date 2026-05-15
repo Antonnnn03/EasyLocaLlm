@@ -1,0 +1,8 @@
+venv/
+models/
+bin/ollama-linux-amd64/
+__pycache__/
+*.pyc
+bin/
+.tar.zst
+docs/
